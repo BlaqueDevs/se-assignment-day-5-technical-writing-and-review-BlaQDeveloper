@@ -1,6 +1,6 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-Understnding your audience's expertise level is very crucial because it helps ensure that your message is clear, engaging, and effective. Here are some approach:
+Understanding your audience's expertise level is very crucial because it helps ensure that your message is clear, engaging, and effective. Here are some approach:
 A. Language and Terminology
 
 Tech Experts: Use industry-specific jargon and technical terms without extensive explanation. Experts are likely familiar with these concepts, so this can streamline communication and establish credibility.
